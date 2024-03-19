@@ -1,2 +1,1 @@
-console.log('Helloo Dio');
-console.log('Ok');
+console.log('This is New');
