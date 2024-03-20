@@ -27,7 +27,7 @@ header {
 }
 .logo {
   font-size: 2em;
-  color: white;
+  color: rgb(141, 141, 141);
   user-select: none;
 }
 .navigation a {
